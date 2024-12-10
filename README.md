@@ -1,1 +1,1 @@
-This project is to optimize queries by adding indexes
+This project focuses on using MongoDB NoSQL database application
